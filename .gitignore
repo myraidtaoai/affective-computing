@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/settings.json
+*.pkl
+*.pth
+embeddings/clip_embeddings.npz
+embeddings/siglip2_embeddings.npz
+/data
